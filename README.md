@@ -1,7 +1,12 @@
 # Teton-Dam-Failure-Example
 This repository contains both HEC-RAS and GeoClaw Teton Dam failure models, supplementary to the paper: Spero, H., Calhoun, D., and Schubert, M. (2022). "Simulating the 1976 Teton Dam Failure using GeoClaw and HEC-RAS and comparing with Historical Observations".
 
-**1. Citation of the GitHub Repository:** Calhoun, D. and Spero, H. Teton Dam GeoClaw Repository. DOI: 000000000. Version 1. Zenodo Link.
+Editor: Hannah Spero (ORCID: 0000-0002-0912-9340).
+
+Contributors: Hannah Spero (ORCID: 0000-0002-0912-9340), Michael Schubert (ORCID: 0000-0001-5509-7637), and Donna Calhoun ORCID: (0000-0002-0912-9340).
+<a href="https://zenodo.org/badge/latestdoi/435099256"><img src="https://zenodo.org/badge/435099256.svg" alt="DOI"></a>
+
+**1. Citation of the GitHub Repository:** Calhoun, D. and Spero, H. Teton Dam GeoClaw Repository. DOI: 10.5281/zenodo.586668. Version 1. Zenodo Link.
 
 **2. Description of the model:** To support reproducibility, a full description of the [GeoClaw](http://www.clawpack.org/geoclaw) and [HEC-RAS](https://www.hec.usace.army.mil/software/hec-ras/documentation/HEC-RAS_5.0.7_Release_Notes.pdf) softwares are available in their respective manuals (linked). Both models use a combined topography formed by: (I) USGS 30-m resolution for the larger topography and (II) USGS 15-m resolution topography. These terrains are sourced from (dd.cr.usgs.gov). 
 
